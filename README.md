@@ -24,6 +24,10 @@
 
 ###
 
+<p align="left">I also love playing video games!</p>
+
+###
+
 <h3 align="left">🛠 Language and Tools</h3>
 
 ###
