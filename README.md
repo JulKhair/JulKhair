@@ -20,11 +20,7 @@
 
 ###
 
-<p align="left">I'm Jul Khair Umali, a 2nd year student from the University of Mindanao Matina Branch.<br><br>- 🔭 I’m still a studying student wanting to learn more about Coding<br>- 📚 I'm currently learning VS Code, HTML, CSS, PHP, and Laravel<br>- ⚡ Fun fact: I love listening to music!</p>
-
-###
-
-<p align="left">I also love playing video games!</p>
+<p align="left">I'm Jul Khair Umali, a 2nd year student from the University of Mindanao Matina Branch.<br><br>- 🔭 I’m still a studying student wanting to learn more about Coding<br>- 📚 I'm currently learning VS Code, HTML, CSS, PHP, and Laravel<br>- ⚡ Fun fact: I love listening to music!<br>- I also love playing video games!</p>
 
 ###
 
