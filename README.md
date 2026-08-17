@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Heya there! 👋</h1>
+<h1 align="center">Hello there! 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Jul Khair Umali, a 2nd year student from the University of Mindanao Matina Branch.<br><br>- 🔭 I’m an avid programming student studying in the Philippines.<br>- 📚 I'm currently learning Visual Studio Code, HTML, CSS, PHP, and Laravel<br>- ⚡ Fun fact: I love listening to music!</p>
+<p align="left">I'm Jul Khair Umali, a 2nd year student from the Philippines.<br><br>- 🔭 I’m an avid programming student studying in the University of Mindanao Matina Branch.<br>- 📚 I'm currently learning Visual Studio Code, HTML, CSS, PHP, and Laravel<br>- ⚡ Fun fact: I love listening to music!</p>
 
 ###
 
